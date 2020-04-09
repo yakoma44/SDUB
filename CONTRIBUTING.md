@@ -1,0 +1,1 @@
+If you would like to contribute, please read these guidelines: https://github.com/yakoma44/MWC-Unity/wiki/Coding-Conventions-&-Contributing-Guidelines
